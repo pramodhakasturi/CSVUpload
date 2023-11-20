@@ -1,6 +1,6 @@
 **CSV Upload web app**
 			
-   This CSV Upload is a web-based application using NodeJs as a backend, MongoDB as a Database, EJS for the front end, and Bootstrap for Styling.
+   This CSV Upload is a web-based application using NodeJs as a backend, MongoDB as a Database, and EJS for the front end
 
 Tools Used
 
@@ -13,7 +13,6 @@ Tools Used
 
 •	EJS
 
-•	Bootstrap
 
 
 **Setting Up**
